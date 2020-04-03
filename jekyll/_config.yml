@@ -1,0 +1,18 @@
+title: Mark Pedersen
+email: markrepedersen@gmail.com
+baseurl: ""
+url: "markrepedersen.github.io"
+github_username: markrepedersen
+linkedin_username: mark-pedersen-190098157
+theme: minima
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
