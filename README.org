@@ -1,0 +1,9 @@
+* Abstract
+This is my configuration for creating a website using Emac's org-mode and Jekyll.
+
+* Developer Requirements
+Reproducing this is pretty easy - just follow the below links and it shouldn't take too long to set up a working example. 
+
+- Emacs (see https://github.com/markrepedersen/emacs-configuration for information on installation and configuration).
+- Org-mode (see https://github.com/markrepedersen/emacs-configuration/blob/master/lisp/org-init.el for how to configure it).
+- Jekyll (see https://jekyllrb.com/docs/installation/ for installation).
